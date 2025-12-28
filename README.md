@@ -35,6 +35,43 @@ After installing and activating the plugin, add the following shortcodes to any 
 
 Each shortcode renders a specific medication tool on the frontend.
 
+
+## Styling & Customization
+
+The plugin focuses on functionality and data accuracy.  
+Basic styling is provided, while the final appearance can be customized using theme or page-level CSS.
+
+This approach allows site owners to:
+- Match the tool design with their website theme
+- Customize fonts, colors, and spacing
+- Control layout and responsiveness without modifying plugin logic
+
+Styling can be applied via the active theme’s custom CSS or page builder styling options.
+
+## Screenshots
+
+### Medication Lookup Tool
+**Before search**  
+![Medication Lookup Before](screenshots/screenshot-1-medication-lookup-before.png)
+
+**After results**  
+![Medication Lookup After](screenshots/screenshot-2-medication-lookup-after.png)
+
+### Alternate Medication Brand Finder
+**Before search**  
+![Alternate Brands Before](screenshots/screenshot-3-altbrands-before.png)
+
+**After results**  
+![Alternate Brands After](screenshots/screenshot-4-altbrands-after.png)
+
+### Medication Side Effects & Safety Checker
+**Before search**  
+![Side Effects Before](screenshots/screenshot-5-sideeffects-before.png)
+
+**After results**  
+![Side Effects After](screenshots/screenshot-6-sideeffects-after.png)
+
+
 ## My Role
 - Founder & product owner
 - Designed the product logic and user flows
