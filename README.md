@@ -18,6 +18,23 @@ It focuses on clarity, safety, and responsible presentation of healthcare inform
 - Side effects information
 - User-friendly WordPress integration
 
+## Usage (Shortcodes)
+
+After installing and activating the plugin, add the following shortcodes to any page or post to display the tools.
+
+### Alternate Medication Brand Finder
+[usm_tool type="altbrands"]
+
+### Medication Lookup Tool
+[usm_tool type="lookup"]
+
+
+### Medication Side Effects & Safety Checker
+[usm_tool type="sideeffects"]
+
+
+Each shortcode renders a specific medication tool on the frontend.
+
 ## My Role
 - Founder & product owner
 - Designed the product logic and user flows
@@ -36,3 +53,5 @@ Live and actively used.
 
 ## Disclaimer
 This tool provides healthcare information only and does not replace professional medical advice.
+
+
